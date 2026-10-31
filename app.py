@@ -1,5 +1,5 @@
 # Sample application module for integration testing
 
 def run_server():
-    debug = True
+    debug = False
     return debug
